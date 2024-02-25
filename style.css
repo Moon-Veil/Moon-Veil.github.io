@@ -1,7 +1,7 @@
 body{ 
     margin: 0; 
     padding: 0; 
-    background-color: rgb(68, 67, 67); color: aliceblue;
+    background-color: hsl(0, 1%, 26%); color: aliceblue;
 }
 
 .h11{
@@ -14,7 +14,8 @@ text-align: center;
 }
 
 .container {
-    background-color: rgb(46, 46, 46);
+    background-color:  hsl(0, 0%, 18%);
+    width: 418px;
     width: 418px;
     height: 288px; /* Ajuste conforme necessário */
     border: 0px solid #ebebeb;
